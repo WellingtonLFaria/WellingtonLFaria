@@ -1,5 +1,4 @@
-# Olá, eu sou o Wellington Luiz de Faria
-
+# Olá!
 
 ## Sobre mim
 
