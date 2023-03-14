@@ -11,6 +11,14 @@ Meu nome é Wellington Luiz de Faria, conheci a área de programação em 2018 e
   
 ---
 
+## Estatísticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonLFaria&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Contato
+
 <div> 
   <a href="https://www.instagram.com/wellingtonfarial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wellingtonll.faria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
