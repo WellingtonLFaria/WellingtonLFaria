@@ -6,8 +6,7 @@ Meu nome é Wellington Luiz de Faria, conheci a área de programação em 2018 e
 
 - Atualmente cursando Desenvolvimento de Software Multiplataforma **(DSM)** na Fatec Jessen Vidal SJC - SP
 - Linguagem favorita: <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- Conhecimento básico em: <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- Conhecimento básico em: <img align="center" alt="HTML" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JS" height="24" width="24" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   
 ---
 
