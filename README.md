@@ -18,8 +18,8 @@ Meu nome é Wellington Luiz de Faria, conheci a área de programação em 2018 e
 
 ## Alguns projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonLFaria&repo=DesafioNumerosTelefone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonLFaria&repo=Jogo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonLFaria&repo=DesafioNumerosTelefone&theme=radical)](https://github.com/WellingtonLFaria/DesafioNumerosTelefone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonLFaria&repo=Jogo&theme=radical)](https://github.com/WellingtonLFaria/Jogo)
 
 ---
 
