@@ -10,7 +10,7 @@ I discovered the Software Development area in 2018. Since then, I have been stud
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WellingtonLFaria&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WellingtonLFaria&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WellingtonLFaria&theme=midnight-purple&hide_border=false&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonLFaria&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🧱 Some projects:
