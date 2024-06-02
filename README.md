@@ -1,5 +1,5 @@
 # Hi 👋, my name is Wellington Luiz de Faria
-I discovered the Software Development area in 2018. Since then, I have been studying and working on real projects, with the aim of one day working in the area. <br>📚 I'm currently studying Multiplatform Software Development at Fatec São José dos Campos - Prof. Jessen Vidal <br>
+📚 Currently studying Multiplatform Software Development at Fatec São José dos Campos - Prof. Jessen Vidal (3rd Semester).I'm currently studying Multiplatform Software Development at Fatec São José dos Campos - Prof. Jessen Vidal <br>
 
 
 ## 🌐 Socials:
